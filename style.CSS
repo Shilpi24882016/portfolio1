@@ -1,0 +1,81 @@
+*{
+  padding:0PX;
+  margin:0px;
+  text-decoration:none;
+}
+body{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#07080a;
+    line-height: 1.6;
+    text-align: center;
+    background:url("https://media.istockphoto.com/id/1435226158/photo/circuit-board-background-computer-data-technology-artificial-intelligence.jpg?s=612x612&w=0&k=20&c=NUf6D4ZgRm6XC7Av2WwmkW5RkHNKbnIgulwmvbEshac=") no-repeat ;
+    background-size: cover;
+}
+.profile-img{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border: 3px solid white;
+    box-shadow: 0px 4px 10px rgba(0,0,0,1);
+    margin-bottom: 15px;
+}
+header{
+    background: #080808;
+    color: white;
+    padding:20px 0px;
+    text-align:center;
+}
+main{
+    padding: 20px;
+    }
+h1{
+    margin: 0px;
+}
+h2{
+    color: #040405;
+    margin-top: 30px;
+    border-bottom: 2px solid #ddd;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+p{
+max-width: 600px;
+margin: 10px auto;
+font-size: 16px;
+}
+ul li{
+    background: #f1d2d2;
+    margin: 8px auto;
+    padding: 10px;
+    width: 250px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 6px rgb(0, 0, 0);
+    font-weight: bold;
+}
+.contact{
+    background: #fff;
+    padding: 20px;
+    margin: 30px auto;
+    width: 300px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgb(0,0,1)
+}
+a{
+    text-decoration: none;
+    color: #2980b9;
+    font-weight: bold;
+}
+a,hover{
+    color: #e74c3c;
+}
+footer{
+    background: #0a0a0a;
+    color: white;
+    padding: 15px 0px;
+    margin-top: 20px;
+}
+.pic{
+    height:100px;
+    border-radius: 100px;
+
+}
